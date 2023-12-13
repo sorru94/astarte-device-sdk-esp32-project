@@ -1,0 +1,16 @@
+{
+    // Hush CMake
+	"cmake.configureOnOpen": false,
+
+	// IntelliSense
+	"C_Cpp.default.compilerPath": "${userHome}/.espressif/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc/xtensa-esp32-elf-gcc",
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/build/compile_commands.json",
+    "C_Cpp.autoAddFileAssociations": false,
+    "C_Cpp.debugShortcut": false,
+
+    // File Associations
+    "files.associations": {
+        "*.h": "c",
+        "*.c": "c",
+    }
+}
