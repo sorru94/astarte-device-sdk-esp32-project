@@ -1,1 +1,1 @@
-# astarte-device-sdk-esp32-project
+# Example project using the Astarte device SDK component for ESP 32
